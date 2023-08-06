@@ -8,6 +8,11 @@ The primary components included are:
 - Graph Data Structuring
 - Demonstrations of Downstream Applications.
 
+Major programming language:
+- Python
+- SQL
+
+
 ## Getting Started
 
 
